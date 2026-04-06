@@ -190,5 +190,12 @@ Ce projet est sous licence ISC.
 - Toute la communauté open source
 
 ---
+<img width="1919" height="863" alt="Capture d&#39;écran 2026-04-06 222723" src="https://github.com/user-attachments/assets/3074a2ed-61c4-4728-b9b1-701f963b6d57" />
+<img width="1914" height="859" alt="Capture d&#39;écran 2026-04-06 222736" src="https://github.com/user-attachments/assets/d1a5c6de-a50a-4a3f-8947-e758f4c3548d" />
+<img width="1918" height="863" alt="Capture d&#39;écran 2026-04-06 222748" src="https://github.com/user-attachments/assets/d01558b2-686d-4508-9642-ffc99273d47b" />
+<img width="1919" height="874" alt="Capture d&#39;écran 2026-04-06 222802" src="https://github.com/user-attachments/assets/13c5eabf-162c-4db1-a699-444ccb206342" />
+<img width="1919" height="844" alt="Capture d&#39;écran 2026-04-06 222816" src="https://github.com/user-attachments/assets/2df1372d-fc4a-424d-9897-c37ea4908e34" />
+<img width="1919" height="859" alt="Capture d&#39;écran 2026-04-06 222852" src="https://github.com/user-attachments/assets/828fe6cb-e4ad-4f62-8138-d3a12e46e5dc" />
+
 
 ⭐ N'oubliez pas de mettre une étoile si ce projet vous a aidé !
